@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sheshagiriabhishek
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Abhishke Gowda
+- I’m passionate about Java Spring development for web technologies
+- I’m currently working as Software Engineer at Societe Generale 
+- Watsh this space for interesting Spring microservice projects
 
 <!---
 sheshagiriabhishek/sheshagiriabhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
