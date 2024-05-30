@@ -1,4 +1,4 @@
-- Hi, I’m Abhishke Gowda
+- Hi, I’m Abhishek Gowda
 - I’m passionate about Java Spring development for web technologies
 - I’m currently working as Software Engineer at Societe Generale 
 - Watsh this space for interesting Spring microservice projects
